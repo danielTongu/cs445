@@ -1,0 +1,4 @@
+# Ignore macOS metadata files
+.DS_Store
+../.DS_Store
+../stage2/.DS_Store
